@@ -3,6 +3,8 @@ This is a web application developed in Python using the Django framework.
 1. Extract the QuizNest.zip file.
 2. Navigate to the project folder in the terminal.
 3. Start the Django server with this command in terminal: python manage.py runserver
+4. You will get an URL in the terminal, paste it on a browser.
+5. You are Welcome.
 
 If need to replace the current quiz question and answer,then do the following steps:
 1. Delete the database db.sqlite3
