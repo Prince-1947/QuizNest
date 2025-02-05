@@ -13,7 +13,7 @@ If need to replace the current quiz question and answer,then do the following st
 4. Also number of question can be edited.
 5. Now navigate to the myproject folder in the terminal
 6. Recreate the database with migration command step 1: python manage.py makemigrations
-7. Recreate the database with migration command step 2:python manage.py migrate
+7. Recreate the database with migration command step 2: python manage.py migrate
 8. Finally start the Django server with this command in terminal: python manage.py runserver
 9. voila!!
 
